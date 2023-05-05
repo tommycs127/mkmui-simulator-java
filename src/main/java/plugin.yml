@@ -1,0 +1,19 @@
+name: MKMuiSimulator
+description: A plugin that simulates the speaking style of Hong Kong VTuber MK Mui.
+version: '7.7'
+author: tommycs127
+main: com.drummish.mkmuisimulator.MKMuiSimulator
+api-version: '1.19'
+prefix: MKMui
+commands:
+  mkmui:
+    description: Main command
+    aliases: [mk, mkm]
+    usage: /mkmui [say|reload|version]
+permissions:
+  mkmui.say:
+    description: Say to MK Mui
+    default: true
+  mkmui.reload:
+    description: Reload the config and restart the Discord bot
+    default: op
