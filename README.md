@@ -27,8 +27,7 @@
    * `BOT PERMISSIONS` 剔 `Send Messages`
 4. 貼落瀏覽器，揀你想佢入嘅伺服器；
 5. 喺 Minecraft 伺服器度打 `/mkmui reload`；
-6. 見到 `[net.dv8tion.jda.api.JDA] Finished Loading!` 即係程式正常運作緊：
-7. **娘娘駕到！**
+6. 見到 console 出咗 `[net.dv8tion.jda.api.JDA] Finished Loading!` 即係**娘娘駕到！**
 
 # 點樣喺 Discord 同娘娘傾計啊？
 喺訊息開頭打呢啲觸發詞：
