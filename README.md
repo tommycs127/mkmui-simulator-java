@@ -45,6 +45,6 @@
 * [JDA](https://github.com/DV8FromTheWorld/JDA)
 * [Spigot API](https://www.spigotmc.org/wiki/buildtools/)（你要自己用 `BuildTools.jar` 砌出嚟；版本自己揀）
 
-# 你（外掛）有咩問題？
+# <ruby>你<rp>（</rp><rt>外掛</rt><rp>）</rp></ruby>有咩問題？
 * 事關靠 JDA 連 Discord，內部運作會同 [DiscordSRV](https://github.com/DiscordSRV/DiscordSRV) 撞咗線，不過未睇到會影響兩邊功能。
   * 暫時唔太知要點樣解。
