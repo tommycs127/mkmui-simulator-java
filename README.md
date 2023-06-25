@@ -1,5 +1,6 @@
 # MK 妹機械人 (Java 版)
-模仿香港 VTuber「[MK 妹](https://www.youtube.com/channel/UCO62chyehk6pX7OitrnJAUg)」講嘢風格嘅 Spigot / Paper 外掛，有得同玩家傾偈之餘，重保留咗連 Discord 嘅功能添！
+模仿香港 VTuber「[MK 妹](https://www.youtube.com/channel/UCO62chyehk6pX7OitrnJAUg)」講嘢風格嘅 Spigot / Paper 外掛，有得同玩家傾偈之餘，重[保留咗連 Discord 嘅功能](https://github.com/tommycs127/mkmui-simulator)添！
+
 入面嘅 `FakeMKMui.java`、`Sentence.java` 同 `Name.java` 都係 MK 妹機械人嘅靈魂，想用喺自己嘅 Java 專案嘅話就要拎晒呢三件。
 
 # 適用伺服器版本
